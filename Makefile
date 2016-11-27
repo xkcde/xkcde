@@ -1,3 +1,3 @@
 xkcde:
-	git clone https://github.com/xkcde/xkcde
+	git clone ../xkcde
 	$(MAKE) -C xkcde
